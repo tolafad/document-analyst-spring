@@ -1,0 +1,11 @@
+services:
+    rabbitmq:
+      image: rabbitmq:4.1-management
+      ports: ["5672:5672", "15672:15672"]
+    metadata-api:
+      build:
+        context: "../Assignment 4/metadata_api"
+      ports: ["8000:8000"]
+    mailpit:
+      image: axllent/mailpit:latest
+      ports: ["1025:1025", "8025:8025"]

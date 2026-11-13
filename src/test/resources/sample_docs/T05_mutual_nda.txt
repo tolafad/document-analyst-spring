@@ -1,0 +1,21 @@
+MUTUAL NON-DISCLOSURE AGREEMENT
+
+Date: 22 September 2026
+
+Parties:
+1. Harlow & Finch Consulting Ltd, 14 Tanner Row, Maidstone ME14 1XX ("Harlow & Finch")
+2. Quayside Analytics Ltd, 9 Harbour Walk, Bristol BS1 0XX ("Quayside")
+
+Purpose: to allow the parties to evaluate a possible joint bid for a public-sector analytics framework (the "Purpose").
+
+1. Confidential Information means any information disclosed by one party to the other, in any form, that is marked
+   confidential or would reasonably be understood to be confidential.
+2. The receiving party shall use Confidential Information only for the Purpose and shall not disclose it to any third
+   party without the prior written consent of the disclosing party.
+3. These obligations do not apply to information that is or becomes public other than through a breach of this agreement.
+4. On written request the receiving party shall return or destroy all Confidential Information within 14 days.
+5. This agreement lasts for three years from the date above.
+6. This agreement is governed by the law of England and Wales.
+
+Signed for Harlow & Finch: Daniel Reeve, Operations Manager
+Signed for Quayside: Martin Osei, Director
