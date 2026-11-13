@@ -1,0 +1,29 @@
+spring:
+  application.name: document-analyst
+  mail:
+    host: localhost
+    port: 1025
+management:
+  endpoint.health.show-details: always
+analyst:
+  folders:
+    root: C:/analyst-docs
+  files:
+    max-size: 15MB
+  metadata-api:
+    base-url: http://localhost:8000
+    timeout: 15s
+  gemini:
+    model: gemini-3.8-flash
+    thinking-level: HIGH
+    max-attempts: 4
+    max-wait: 60s
+    timeout: 120s
+    base-url: https://generativelanguage.googleapis.com
+  sheets:
+    spreadsheet-id: TODO-step-12
+    documents-tab: Documents
+    errors-tab: Errors
+    documents-gid: 0
+  mail:
+    to: you@example.com

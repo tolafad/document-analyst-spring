@@ -1,0 +1,71 @@
+HELP.md
+target/
+.env
+.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+### Secrets and credentials ###
+.env.*
+.aws/
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa*
+*accessKeys*.csv
+credentials
+client_secret*.json
+service-account*.json
+*.kdbx
+
+### Local data, logs, outputs ###
+*.db
+*.db-journal
+*.sqlite*
+*.log
+logs/
+runs/
+
+### Environments ###
+.venv/
+venv/
+
+### Large media ###
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+
+### OS ###
+.DS_Store
+Thumbs.db
